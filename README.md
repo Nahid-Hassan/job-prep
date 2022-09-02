@@ -60,3 +60,7 @@
 ## Github Repository
 
 - [Hasan Abdullah](https://github.com/hasancse91)
+
+## Common Mistakes
+
+![images](interview/images/mistakes.png)

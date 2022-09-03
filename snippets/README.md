@@ -33,6 +33,8 @@ bool prime(int n) {
 
 ### Sieve of Eratosthenes
 
+- [Benchmark Testing for Prime Sieve](https://gist.github.com/jakobkogler/e6359ea9ced24fe304f1a8af3c9bee0e)
+
 ```c++
 int n = 1e6+7;   // 1000007
 vector <bool> is_prime(n+1, true); // additional 1 for boundary checking.

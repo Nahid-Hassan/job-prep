@@ -132,6 +132,8 @@ ll power(ll base, ll power) {
 
 ### Number of Divisors
 
+- [Perfect Numbers](https://en.wikipedia.org/wiki/List_of_Mersenne_primes_and_perfect_numbers)
+
 ```c++
 void divisors(int n) {
     set<int> divs;
@@ -156,3 +158,14 @@ Idea:
     * And find the next divisors. If you find more than or less than one. Then ignore that number.
 
 ```
+
+- Leetcode [Three Divisors](https://leetcode.com/problems/three-divisors/)
+
+```text
+Idea:
+
+    * If number is full square number then set the counter and make the decision.
+```
+
+- Leetcode [Self Dividing Number](https://leetcode.com/problems/self-dividing-numbers/)
+

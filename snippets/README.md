@@ -12,6 +12,8 @@
     - [Number of Factors, Sum of Factors & Product of Factors](#number-of-factors-sum-of-factors--product-of-factors)
     - [Density of Primes](#density-of-primes)
     - [GCD and LCM](#gcd-and-lcm)
+    - [Number of Co-primes in range - Euler Totient Function](#number-of-co-primes-in-range---euler-totient-function)
+    - [Phi - Sieve](#phi---sieve)
 
 ## Number Theory
 
@@ -341,5 +343,73 @@ int gcd(int a, int b) {
 int lcm(int a, int b) {
     int _lcm = (a * b) / gcd(a, b);
     return _lcm;
+}
+```
+
+### Number of Co-primes in range - Euler Totient Function
+
+- [Euler Totient - CP Algorithms](https://cp-algorithms.com/algebra/phi-function.html#properties)
+
+![images](images/1.png)
+
+Here,
+
+1. p1, p2, ..., pk is the prime factors.
+2. We can easily generate prime factors and through prime factors we can easily generate
+   co-primes using Euluer Totient function.
+
+```c++
+int phi(int n) {
+    int coprimes = n;
+    for (int i = 2; i * i <= n; i++) {
+        if (n % i == 0) {
+            while (n % i == 0) n /= i;
+            coprimes *= (i - 1);
+            coprimes /= i;
+        }
+    }
+    if (n > 1) {
+        coprimes *= (n - 1);
+        coprimes /= n;
+    }
+
+    return coprimes;
+}
+```
+
+Another Implementation of `Phi()` Function
+
+```c++
+int phi(int n) {
+    int result = n;
+    for (int i = 2; i * i <= n; i++) {
+        if (n % i == 0) {
+            while (n % i == 0)
+                n /= i;
+            result -= result / i;
+        }
+    }
+    if (n > 1)
+        result -= result / n;
+    return result;
+}
+```
+
+### Phi - Sieve 
+
+```c++
+void phi_1_to_n(int n) {
+    vector<int> phi(n + 1);
+    // store max value
+    for (int i = 0; i <= n; i++)
+        phi[i] = i;
+
+    // subtract 
+    for (int i = 2; i <= n; i++) {
+        if (phi[i] == i) {
+            for (int j = i; j <= n; j += i)
+                phi[j] -= phi[j] / i;
+        }
+    }
 }
 ```

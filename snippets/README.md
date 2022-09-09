@@ -6,6 +6,9 @@
   - [Number Theory](#number-theory)
     - [Prime Number Checking](#prime-number-checking)
     - [Sieve of Eratosthenes](#sieve-of-eratosthenes)
+    - [Prime Factorization](#prime-factorization)
+    - [Binary Exponentiation](#binary-exponentiation)
+    - [Number of Divisors](#number-of-divisors)
 
 
 
@@ -64,4 +67,92 @@ Solution Idea: It can be shown that only squares of prime numbers are T-primes, 
 9 = 1, 3, 9      ; sqrt(9) = 3 is prime && 3 * 3 == 9 (whole square number)
 25 = 1, 5, 25
 49 = 1, 7, 49 
+```
+
+### Prime Factorization
+
+```c++
+void printPrimeFactor(int n) {
+    for (int i = 2; i * i <= n; i++) {
+        int count = 0;
+        if (n % i == 0) {
+            while (n % i == 0) {
+                count++;
+                n /= i;
+            }
+            cout << i << " " << count << endl;
+        }
+    }
+
+    if (n > 1) cout << n << " " << 1 << endl;
+}
+```
+
+### Binary Exponentiation
+
+```text
+Suppose we want to calculate 2^9 = 512
+
+Condition:
+---------------------
+If power % 2 == 1:
+    res *= base;
+    power--
+Else:
+    base *= base;
+    power >>= 1
+
+res     base        power
+-----   ----        ------
+1       2             9     (odd)
+2       2             8     (even)
+2       4             4     (even)
+2       16            2     (even)
+2       256           1     (odd)
+512     256           0     break
+```
+
+```c++
+ll power(ll base, ll power) {
+    ll res = 1;
+
+    while (power) {
+        if (power % 2) {
+            res *= base;
+            power--;
+        } else {
+            base *= base;
+            power /= 2;
+        }
+    }
+
+    return res;
+}
+```
+
+### Number of Divisors
+
+```c++
+void divisors(int n) {
+    set<int> divs;
+    
+    for (int i = 1; i * i <= n; i++) {
+        if (n % i == 0) {
+            divs.insert(i);
+            divs.insert(n/i);
+        }
+    }
+    cout << divs.size() << endl;
+}
+```
+
+- Solve leetcode [Four Divisors](https://leetcode.com/problems/four-divisors/) problem.
+
+```text
+Idea: 
+
+    * If i * i == n; there are always odd number of divisors; so ignore this number;
+    * First added 1 + n;
+    * And find the next divisors. If you find more than or less than one. Then ignore that number.
+
 ```

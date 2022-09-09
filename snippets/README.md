@@ -9,8 +9,9 @@
     - [Prime Factorization](#prime-factorization)
     - [Binary Exponentiation](#binary-exponentiation)
     - [Number of Divisors](#number-of-divisors)
-
-
+    - [Number of Factors, Sum of Factors & Product of Factors](#number-of-factors-sum-of-factors--product-of-factors)
+    - [Density of Primes](#density-of-primes)
+    - [GCD and LCM](#gcd-and-lcm)
 
 ## Number Theory
 
@@ -132,7 +133,6 @@ ll power(ll base, ll power) {
 
 ### Number of Divisors
 
-- [Perfect Numbers](https://en.wikipedia.org/wiki/List_of_Mersenne_primes_and_perfect_numbers)
 
 ```c++
 void divisors(int n) {
@@ -169,3 +169,177 @@ Idea:
 
 - Leetcode [Self Dividing Number](https://leetcode.com/problems/self-dividing-numbers/)
 
+
+### Number of Factors, Sum of Factors & Product of Factors
+
+- Leetcode [Kth Divisor](https://leetcode.com/problems/the-kth-factor-of-n/)
+
+```c++
+class Solution {
+public:
+    int kthFactor(int n, int k) {
+        for (int i = 1; i <= n / 2; i++) {
+            if (n % i == 0) k--;
+            if (k == 0) return i;
+        }
+        if (k == 1) return n;
+        return -1;
+    }
+};
+```
+
+**Number of Factors**:
+
+```text
+Number of factors:
+
+    For 84 = 2^2.3^1.7^1
+    Increase each by 1.
+    2 + 1 = 3
+    1 + 1 = 2
+    1 + 1 = 2
+---------------------
+    Multiply every (3 * 2 * 2) => 12
+```
+
+```c++
+int nFactors(int n) {
+    int nfactors = 1;
+    for (int i = 2; i * i <= n; i++) {
+        int count = 0;
+
+        if (n % i == 0) {
+            while (n % i == 0) {
+                n /= 2;
+                count++;
+            }
+        }
+        nfactors *= (count + 1);
+    }
+
+    // for prime number
+    if (n > 1) nfactors *= 2;
+
+    return nfactors;
+}
+```
+
+**Sum of Factors**:
+
+```c++
+int sumOfFactors(int n) {
+    int sum = 1;
+
+    for (int i = 2; i * i <= n; i++) {
+        int counter = 0;
+        if (n % i == 0) {
+            while (n % i == 0) {
+                n /= i;
+                counter++;
+            }
+
+            // (i ^ (counter + 1) - 1) / (i - 1)
+            // cout << sum << " " << i << " " << counter << endl;
+            sum *= (pow(i, counter + 1) - 1) / (i - 1);
+        }
+    }
+
+    if (n > 1) sum *= (pow(n, 2) - 1) / (n - 1);
+
+    return sum;
+}
+```
+
+- [Perfect Numbers](https://en.wikipedia.org/wiki/List_of_Mersenne_primes_and_perfect_numbers)
+
+```text
+    A number n is called perfect number if n = sum_of_factors(n) - n.
+```
+
+**Product of Factors**:
+
+```c++
+#include <bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+
+int numOfFactors(int n) {
+    int factors = 1;
+
+    for (int i = 2; i * i <= n; i++) {
+        int counter = 0;
+        
+        if (n % i == 0) {
+            while (n % i == 0) {
+                n /= i;
+                counter++;
+            }
+        }
+        factors *= (counter + 1);
+    }
+
+    if (n > 1) factors *= 2;
+
+    return factors;
+}
+
+
+ll binExp(ll base, ll power) {
+    ll ans = 1;
+
+    while (power) {
+        if (power % 2) {
+            ans *= base;
+            power--;
+        } else {
+            base *= base;
+            power /= 2;
+        }
+    }
+
+    return ans;
+}
+
+ll prodOfFactors(ll n) {
+    ll sf = numOfFactors(n);
+    sf /= 2;
+
+    ll prod = binExp(n, sf);
+
+    return prod;
+}
+
+int main() {
+    cout << prodOfFactors(84) << endl;  // 351298031616
+}
+```
+
+### Density of Primes
+
+```text
+    The density of primes are relatively $(n) = n / ln(n);
+```
+
+```c++
+int n = 10e5;
+
+// method = n / ln(n)
+int density = n / log(n);   // log() in c++ is natural logarithm. e-based.
+```
+
+### GCD and LCM
+
+```c++
+int gcd(int a, int b) {
+    if (b == 0) return a;
+    return gcd(b, a % b);
+}
+```
+
+```c++
+int lcm(int a, int b) {
+    int _lcm = (a * b) / gcd(a, b);
+    return _lcm;
+}
+```

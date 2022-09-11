@@ -65,4 +65,4 @@ My Leetcode Account - [Md. Nahid Hassan](https://leetcode.com/nahidmdh18/)
 
 ## Common Mistakes
 
-![images](interview/images/mistakes.png)
+![images](interview-books/images/mistakes.png)

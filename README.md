@@ -8,6 +8,7 @@ My Leetcode Account - [Md. Nahid Hassan](https://leetcode.com/nahidmdh18/)
 
 ## Languages
 
+- [C Programming](https://youtu.be/j-_s8f5K30I)
 - **C++**
 - C#
 - Python

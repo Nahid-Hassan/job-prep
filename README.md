@@ -49,6 +49,10 @@ My Leetcode Account - [Md. Nahid Hassan](https://leetcode.com/nahidmdh18/)
 - Competitive Programming Handbook - Generalize
 - Competitive Programming 3 - Uva 
 
+### Interview Preparation Book
+
+- [Cracking the Coding Interview](https://github.com/Nahid-Hassan/job-prep/blob/main/interview-books/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions%20Gayle%20Laakmann%20McDowell.pdf)
+
 ## Other Resources
 
 - CP Algorithms

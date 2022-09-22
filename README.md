@@ -3,9 +3,9 @@
 My Leetcode Account - [Md. Nahid Hassan](https://leetcode.com/nahidmdh18/)
 
 - Samsung
-- **Enosis**
-- **Therap**
-- **Reve Systems**
+- **Enosis** - `C#`
+- **Therap** - `C++/Java`
+- **Reve Systems** `Java Sprint Boot/C++`
 
 ## Languages
 

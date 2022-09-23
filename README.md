@@ -69,6 +69,7 @@ My Leetcode Account - [Md. Nahid Hassan](https://leetcode.com/nahidmdh18/)
 
 - [Hasan Abdullah](https://github.com/hasancse91)
 - [CTCI C++ Edition](https://github.com/careercup/CtCI-6th-Edition-cpp)
+- [Algorithms - William Fiset](https://github.com/williamfiset/algorithms)
 
 ## Common Mistakes
 

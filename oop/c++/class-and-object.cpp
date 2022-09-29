@@ -10,6 +10,10 @@ using namespace std;
  */
 class YouTubeChannel {
     // member variable
+
+// by default member variable are private
+// public keyword make member variable available to out site of the class.
+public:
     string name;
     string ownerName;
     int subscribersCount;

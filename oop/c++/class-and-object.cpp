@@ -21,10 +21,21 @@ public:
 }; 
 
 int main() {
-    // create objetct
+    // create object
     YouTubeChannel ytChannel;
 
     // by default all the members are private
-    // ytChannel.name = "Nahid";
+    ytChannel.name = "Nahid";
+    ytChannel.ownerName = "Nahid Hassan";
+    ytChannel.subscribersCount = 23;
+    ytChannel.publishedVideoTitles = {"C++ for Beginners", "Python for Everybody", "Why Learn C++?"};
+
+    cout << ytChannel.name << endl;
+    cout << ytChannel.ownerName << endl;
+    cout << ytChannel.subscribersCount << endl;
+
+    for (string title : ytChannel.publishedVideoTitles) {
+        cout << title << endl;
+    } 
 
 }

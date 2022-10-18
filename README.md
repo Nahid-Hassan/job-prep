@@ -1,6 +1,7 @@
 # SE Job Preparation
 
-My Leetcode Account - [Md. Nahid Hassan](https://leetcode.com/nahidmdh18/)
+
+> My Leetcode Account - [Md. Nahid Hassan](https://leetcode.com/nahidmdh18/) - Solving Idea: [Leetcode Problem Solving Ideas - README](https://github.com/Nahid-Hassan/job-prep/blob/main/LEETCODE_SOL_IDEA.md)
 
 - Samsung
 - **Enosis** - `C#`

@@ -12,6 +12,7 @@
 |    1636    | Sort Array by Increasing Frequency | Count frequency and then sort the map using following, <pre> static bool cmp(pair<int, int> &a, pair<int, int> &b) { <br>    if (a.second < b.second) return true;<br>    if (a.second == b.second) return a.first >= b.first;<br>    return false;<br>}</pre> |
 |    2341    | Maximum Number of Pairs in Array   | `sort` and then compare with `i` and `i+1` index value and `count` the compare.                                                                                                                                                                                |
 |2367| Number of Arithmetic Triplets|Place all the value in map and then check for every number `if(mp[num-diff] and mp[num+diff]) count++`.|
+|2390| Removing Stars From a String| <pre>if (s[i] == '*') ans.pop_back(); <br>else ans += s[i];</pre>
 |2418 | Sort the People| Mapping and reverse iterator | 
 
 

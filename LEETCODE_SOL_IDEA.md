@@ -10,6 +10,7 @@
 |844| Backspace String Compare|<pre>if (s1.size() == 0 and s[i] == '#') continue;<br>else if (s1.size() > 0 and s[i] == '#') s1.pop_back();<br>else s1 += s[i];</pre>|
 |1323| Maximum 69 Number|Simply if you found any `6`, change it to `9` and immediate return it. `to_string()` and `stoi()`|
 |1544| Make The String Great | Using `stack` or use `string` as a `stack` |
+|1619| Mean of Array After Removing Some Elements| `for (int i = sz / 20; i < sz - (sz / 20); i++`|
 |    1636    | Sort Array by Increasing Frequency | Count frequency and then sort the map using following, <pre> static bool cmp(pair<int, int> &a, pair<int, int> &b) { <br>    if (a.second < b.second) return true;<br>    if (a.second == b.second) return a.first >= b.first;<br>    return false;<br>}</pre> |
 |    2341    | Maximum Number of Pairs in Array   | `sort` and then compare with `i` and `i+1` index value and `count` the compare.                                                                                                                                                                                |
 |2367| Number of Arithmetic Triplets|Place all the value in map and then check for every number `if(mp[num-diff] and mp[num+diff]) count++`.|

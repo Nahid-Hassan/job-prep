@@ -66,6 +66,7 @@
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses#algorithms)
 - [Number Theory](https://artofproblemsolving.com/community/c90633h1291397)
 - [Catalan Number](https://youtu.be/0pTN0qzpt-Y)
+- [Graph Algorithms](https://www.youtube.com/watch?v=s7zE4Nmc2Fg&list=PL5DyztRVgtRVLwNWS7Rpp4qzVVHJalt22)
 
 ## Github Repository
 

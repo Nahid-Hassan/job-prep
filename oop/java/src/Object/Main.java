@@ -17,6 +17,9 @@ public class Main {
         System.out.println(hasan.name);
         System.out.println(hasan.age);
 
+        Human mony = new Human(10);
+        System.out.println(mony.age);
+
 //        hasan.name = "Hasan Shariar";
 //        hasan.age = 25;
 //        hasan.walk();

@@ -2,7 +2,7 @@
 
 - [Linked List Techniques](#linked-list-techniques)
   - [Linked List Structure](#linked-list-structure)
-  - [Slow and Faster Pointer (Find the Middle Pointer)](#slow-and-faster-pointer-find-the-middle-pointer)
+  - [Slow and Faster Pointer (Find the Middle of the Linked List)](#slow-and-faster-pointer-find-the-middle-of-the-linked-list)
 
 
 ### Linked List Structure
@@ -18,7 +18,7 @@ struct ListNode
 };
 ```
 
-### Slow and Faster Pointer (Find the Middle Pointer)
+### Slow and Faster Pointer (Find the Middle of the Linked List)
 
 ```c++
 ListNode *middleNode(ListNode *head) {

@@ -12,6 +12,7 @@
 |    692     | Top K Frequent Words               | Count word frequency and then sort the map based on value. <pre>static bool cmp(pair<string, int> &a, pair<string, int> &b) { <br>    if (a.second == b.second) return a.first < b.first; <br>    else return a.second > b.second;<br>}</pre>                  |
 |695| Max Area of Island|Grid graph - Connected components, just maintain a global and local count, store max in global count or you can using real recursive solution technique <pre>if (x < 0 or y < 0 or x >= grid.size() or y >= grid[0].size() or !grid[x][y])<br>    return 0;<br>grid[x][y] = 0;<br>return 1 + dfs(x+1, y, grid) + dfs(x - 1, y, grid) + dfs(x, y + 1, grid) + dfs(x, y - 1, grid);</pre>|
 |844| Backspace String Compare|<pre>if (s1.size() == 0 and s[i] == '#') continue;<br>else if (s1.size() > 0 and s[i] == '#') s1.pop_back();<br>else s1 += s[i];</pre>|
+|872| Leaf-Similar Trees|Run and store on vector and simply return `left == right`|
 |876| Middle of the Linked List| `Slow and Fast pointer` |
 |938| Range Sum of BST|Just Iterate the whole BST and check the range and sum it|
 |1002| Find Common Characters| `C++ STL Map - Frequency Counting`|

@@ -17,6 +17,7 @@
 |938| Range Sum of BST|Just Iterate the whole BST and check the range and sum it|
 |1002| Find Common Characters| `C++ STL Map - Frequency Counting`|
 |1323| Maximum 69 Number|Simply if you found any `6`, change it to `9` and immediate return it. `to_string()` and `stoi()`|
+|1339| Maximum Product of Splitted Binary Tree| Get `total_sum` and then find the `max_prod` based on `sub_tree_sum`|
 |1544| Make The String Great | Using `stack` or use `string` as a `stack` |
 |1619| Mean of Array After Removing Some Elements| `for (int i = sz / 20; i < sz - (sz / 20); i++`|
 |    1636    | Sort Array by Increasing Frequency | Count frequency and then sort the map using following, <pre> static bool cmp(pair<int, int> &a, pair<int, int> &b) { <br>    if (a.second < b.second) return true;<br>    if (a.second == b.second) return a.first >= b.first;<br>    return false;<br>}</pre> |

@@ -2,6 +2,7 @@
 Algorithms/
 # Prerequisites
 *.d
+neetcode/
 
 # Compiled Object files
 *.slo

@@ -25,7 +25,9 @@
 |    1636    | Sort Array by Increasing Frequency | Count frequency and then sort the map using following, <pre> static bool cmp(pair<int, int> &a, pair<int, int> &b) { <br>    if (a.second < b.second) return true;<br>    if (a.second == b.second) return a.first >= b.first;<br>    return false;<br>}</pre> |
 |1657| Determine if Two Strings Are Close| Count the frequency and test character set|
 |1704| Determine if String Halves Are Alike|Count `vowel` for first half `count++` for second half `count--` then `return count == 0`|
+|1962| Remove Stones to Minimize the Total| Just using `priority_queue` and simple logic| 
 |2125| Number of Laser Beams in a Bank| Count ones and calculate product. |
+|2208| Minimum Operations to Halve Array Sum| Using `priority_queue` and check until `total / 2 > reduce`|
 |2278 | Percentage of Letter in String| Just count the letter freq and return `freq * 100 / s.size()`|
 |    2341    | Maximum Number of Pairs in Array   | `sort` and then compare with `i` and `i+1` index value and `count` the compare.                                                                                                                                                                                |
 |2367| Number of Arithmetic Triplets|Place all the value in map and then check for every number `if(mp[num-diff] and mp[num+diff]) count++`.|

@@ -8,7 +8,9 @@
 |55|Jump Game| Greedy Approach |
 |124| Binary Tree Maximum Path Sum| Get `maxLeft` and `maxRight`, `res = max(res, mxLeft + mxRight + root->val)`| 
 |200| Number of Islands| Just find the connected component numbers in grid (`dfs`)|
+|205| Isomorphic Strings| Using two `unordered_map` and `indexing`|
 |238| Product of Array Except Self|Idea - 1: Prefix sum and Postfix Sum `left - index - right`|
+|290| Word Pattern| Using `unordered_map` and `indexing`|
 |349| Intersection of Two Arrays| Same as `leetcode 350` - `mp[num] = 0` instead `mp[num]--` | 
 |350| Intersection of Two Arrays II|`Frequency Counting`  using `unordered_map`. Ordering not needed.|
 |    409     | Longest Palindrome                 | Count letter frequency, then sum up all even, for odd freq sum up like `(odd_value - 1)` and store `carry = 1`; if an only if odd freq letter found. return `len + carry`                                                                                      |

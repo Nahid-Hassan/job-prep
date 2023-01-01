@@ -3,6 +3,7 @@ Algorithms/
 # Prerequisites
 *.d
 neetcode/
+DSAlgo/
 
 # Compiled Object files
 *.slo

@@ -4,6 +4,7 @@
 | :--------: | :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     5      | Longest Palindromic Substring      | From center traverse left-- and right++, check both odd and even length palindrome.                                                                                                                                                                            |
 |15| 3Sum|First solve leetcode `2Sum` and then `2Sum II`, then `3Sum` is the combination of both. [Solution-Code](https://github.com/Nahid-Hassan/job-prep/blob/main/leetcode/15.%203sum/neetcode.cpp)|
+| 27 | Remove Element | <pre>if (nums[i] != val) {<br>  nums[k] = nums[i];<br>  k += 1;<br>}</pre>|
 |     38     | Count and Say                      | `"1"`, `"11"`, `"21"`, `"1211"`, `"111221"`, `"312211"`                                                                                                                                                                                                        |
 |55|Jump Game| Greedy Approach |
 |124| Binary Tree Maximum Path Sum| Get `maxLeft` and `maxRight`, `res = max(res, mxLeft + mxRight + root->val)`| 

@@ -76,5 +76,14 @@ int main()
         temp = temp->next;
     } cout << endl;
 
+
+    // delete from beginning
+    head = head->next;
+    // delete from end
+    temp = head;
+    while (temp->next->next != NULL) temp = temp->next;
+    temp->next = NULL;
+
+    // delete from the middle 
     
 }

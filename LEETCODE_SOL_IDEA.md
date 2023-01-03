@@ -22,11 +22,13 @@
 |844| Backspace String Compare|<pre>if (s1.size() == 0 and s[i] == '#') continue;<br>else if (s1.size() > 0 and s[i] == '#') s1.pop_back();<br>else s1 += s[i];</pre>|
 |872| Leaf-Similar Trees|Run and store on vector and simply return `left == right`|
 |876| Middle of the Linked List| `Slow and Fast pointer` |
+|944| Delete Columns to Make Sorted|Check each column at a time. O(m*n)|
 |977| Squares of a Sorted Array|Two pointers `left++`, `right--`|
 |938| Range Sum of BST|Just Iterate the whole BST and check the range and sum it|
 |1002| Find Common Characters| `C++ STL Map - Frequency Counting`|
 |1323| Maximum 69 Number|Simply if you found any `6`, change it to `9` and immediate return it. `to_string()` and `stoi()`|
 |1339| Maximum Product of Splitted Binary Tree| Get `total_sum` and then find the `max_prod` based on `sub_tree_sum`|
+|1346| Check If N and Its Double Exist| Using `unordered_map` or you can using `nested_loop` dataset is poor|
 |1451| Rearrange Words in a Sentence| Using `map<int, vector<string>> mp`| 
 |1544| Make The String Great | Using `stack` or use `string` as a `stack` |
 |1619| Mean of Array After Removing Some Elements| `for (int i = sz / 20; i < sz - (sz / 20); i++`|
@@ -37,6 +39,7 @@
 |2085| Count Common Words With One Occurrence| Using `unordered_map` and `frequency count`|
 |2125| Number of Laser Beams in a Bank| Count ones and calculate product. |
 |2129| Capitalize the Title| Two pointers |
+|2154| Keep Multiplying Found Values by Two| Using unordered_map for searching or you can use binary_search for searching | 
 |2208| Minimum Operations to Halve Array Sum| Using `priority_queue` and check until `total / 2 > reduce`|
 |2278 | Percentage of Letter in String| Just count the letter freq and return `freq * 100 / s.size()`|
 |    2341    | Maximum Number of Pairs in Array   | `sort` and then compare with `i` and `i+1` index value and `count` the compare.                                                                                                                                                                                |

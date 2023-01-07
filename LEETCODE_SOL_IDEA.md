@@ -8,6 +8,7 @@
 |     38     | Count and Say                      | `"1"`, `"11"`, `"21"`, `"1211"`, `"111221"`, `"312211"`                                                                                                                                                                                                        |
 |55|Jump Game| Greedy Approach |
 |124| Binary Tree Maximum Path Sum| Get `maxLeft` and `maxRight`, `res = max(res, mxLeft + mxRight + root->val)`| 
+|134| Gas Station| if `sum(gas) < sum(cost)` return -1 else iterative check. |
 |200| Number of Islands| Just find the connected component numbers in grid (`dfs`)|
 |205| Isomorphic Strings| Using two `unordered_map` and `indexing`|
 |238| Product of Array Except Self|Idea - 1: Prefix sum and Postfix Sum `left - index - right`|
@@ -19,6 +20,7 @@
 |598| Range Addition II| find the `min_row` and `min_col` and return the `min_row * min_col` if ops size is zero return `m * n` |
 |    692     | Top K Frequent Words               | Count word frequency and then sort the map based on value. <pre>static bool cmp(pair<string, int> &a, pair<string, int> &b) { <br>    if (a.second == b.second) return a.first < b.first; <br>    else return a.second > b.second;<br>}</pre>                  |
 |695| Max Area of Island|Grid graph - Connected components, just maintain a global and local count, store max in global count or you can using real recursive solution technique <pre>if (x < 0 or y < 0 or x >= grid.size() or y >= grid[0].size() or !grid[x][y])<br>    return 0;<br>grid[x][y] = 0;<br>return 1 + dfs(x+1, y, grid) + dfs(x - 1, y, grid) + dfs(x, y + 1, grid) + dfs(x, y - 1, grid);</pre>|
+|747| Largest Number At Least Twice of Others| Find max and recheck using another for loop|
 |844| Backspace String Compare|<pre>if (s1.size() == 0 and s[i] == '#') continue;<br>else if (s1.size() > 0 and s[i] == '#') s1.pop_back();<br>else s1 += s[i];</pre>|
 |872| Leaf-Similar Trees|Run and store on vector and simply return `left == right`|
 |876| Middle of the Linked List| `Slow and Fast pointer` |
@@ -41,6 +43,7 @@
 |2129| Capitalize the Title| Two pointers |
 |2154| Keep Multiplying Found Values by Two| Using unordered_map for searching or you can use binary_search for searching | 
 |2208| Minimum Operations to Halve Array Sum| Using `priority_queue` and check until `total / 2 > reduce`|
+|2244| Minimum Rounds to Complete All Tasks| Count the each frequency if `freq == 1` return `-1` else if `freq % 3 == 0` - `count += freq / 3` if `freq % 3 != 0` then `count += freq / 3 + 1`| 
 |2278 | Percentage of Letter in String| Just count the letter freq and return `freq * 100 / s.size()`|
 |    2341    | Maximum Number of Pairs in Array   | `sort` and then compare with `i` and `i+1` index value and `count` the compare.                                                                                                                                                                                |
 |2367| Number of Arithmetic Triplets|Place all the value in map and then check for every number `if(mp[num-diff] and mp[num+diff]) count++`.|
@@ -48,6 +51,7 @@
 |2390| Removing Stars From a String| <pre>if (s[i] == '*') ans.pop_back(); <br>else ans += s[i];</pre>
 |2404| Most Frequent Even Element| Count the even frequency and check the smallest one if for same frequency |
 |2418 | Sort the People| Mapping and reverse iterator | 
+|2451| Odd String Difference| `unordered_map<string, pair<string, int>> mp` - Frequency counting|
 |2520| Count the Digits That Divide a Number|Simple iterative `to_string` minimize the coding complexity.|
 |2521| Distinct Prime Factors of Product of Array| Check individual number and store divisor into the set and return the size of the set|
 |2522| Partition String Into Substrings With Values at Most K|`str.substr(start, count)`|

@@ -16,6 +16,7 @@
 |349| Intersection of Two Arrays| Same as `leetcode 350` - `mp[num] = 0` instead `mp[num]--` | 
 |350| Intersection of Two Arrays II|`Frequency Counting`  using `unordered_map`. Ordering not needed.|
 |    409     | Longest Palindrome                 | Count letter frequency, then sum up all even, for odd freq sum up like `(odd_value - 1)` and store `carry = 1`; if an only if odd freq letter found. return `len + carry`                                                                                      |
+|441| Arranging Coins| x = (1 + sqrt(8 * n)) / 2, `(int)((sqrt(1 + 8 *(long)n) - 1)/2)`| 
 |520| Detect Capital|Count the capital character and check condition and return, be careful when `count == 1`|
 |598| Range Addition II| find the `min_row` and `min_col` and return the `min_row * min_col` if ops size is zero return `m * n` |
 |    692     | Top K Frequent Words               | Count word frequency and then sort the map based on value. <pre>static bool cmp(pair<string, int> &a, pair<string, int> &b) { <br>    if (a.second == b.second) return a.first < b.first; <br>    else return a.second > b.second;<br>}</pre>                  |
@@ -30,6 +31,7 @@
 |1002| Find Common Characters| `C++ STL Map - Frequency Counting`|
 |1323| Maximum 69 Number|Simply if you found any `6`, change it to `9` and immediate return it. `to_string()` and `stoi()`|
 |1339| Maximum Product of Splitted Binary Tree| Get `total_sum` and then find the `max_prod` based on `sub_tree_sum`|
+|1344| Angle Between Hands of a Clock| `(11 * m - 60 * h) / 2`|
 |1346| Check If N and Its Double Exist| Using `unordered_map` or you can using `nested_loop` dataset is poor|
 |1451| Rearrange Words in a Sentence| Using `map<int, vector<string>> mp`| 
 |1544| Make The String Great | Using `stack` or use `string` as a `stack` |

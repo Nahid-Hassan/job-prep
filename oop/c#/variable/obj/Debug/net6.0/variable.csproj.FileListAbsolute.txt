@@ -1,0 +1,15 @@
+/home/nahid/Desktop/pracsrc/c#/variable/obj/Debug/net6.0/variable.csproj.AssemblyReference.cache
+/home/nahid/Desktop/pracsrc/c#/variable/obj/Debug/net6.0/variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahid/Desktop/pracsrc/c#/variable/obj/Debug/net6.0/variable.AssemblyInfoInputs.cache
+/home/nahid/Desktop/pracsrc/c#/variable/obj/Debug/net6.0/variable.AssemblyInfo.cs
+/home/nahid/Desktop/pracsrc/c#/variable/obj/Debug/net6.0/variable.csproj.CoreCompileInputs.cache
+/home/nahid/Desktop/pracsrc/c#/variable/bin/Debug/net6.0/variable
+/home/nahid/Desktop/pracsrc/c#/variable/bin/Debug/net6.0/variable.deps.json
+/home/nahid/Desktop/pracsrc/c#/variable/bin/Debug/net6.0/variable.runtimeconfig.json
+/home/nahid/Desktop/pracsrc/c#/variable/bin/Debug/net6.0/variable.dll
+/home/nahid/Desktop/pracsrc/c#/variable/bin/Debug/net6.0/ref/variable.dll
+/home/nahid/Desktop/pracsrc/c#/variable/bin/Debug/net6.0/variable.pdb
+/home/nahid/Desktop/pracsrc/c#/variable/obj/Debug/net6.0/variable.dll
+/home/nahid/Desktop/pracsrc/c#/variable/obj/Debug/net6.0/ref/variable.dll
+/home/nahid/Desktop/pracsrc/c#/variable/obj/Debug/net6.0/variable.pdb
+/home/nahid/Desktop/pracsrc/c#/variable/obj/Debug/net6.0/variable.genruntimeconfig.cache

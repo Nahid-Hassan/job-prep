@@ -1,0 +1,15 @@
+/home/nahid/Desktop/pracsrc/c#/Numbers/bin/Debug/net6.0/Numbers
+/home/nahid/Desktop/pracsrc/c#/Numbers/bin/Debug/net6.0/Numbers.deps.json
+/home/nahid/Desktop/pracsrc/c#/Numbers/bin/Debug/net6.0/Numbers.runtimeconfig.json
+/home/nahid/Desktop/pracsrc/c#/Numbers/bin/Debug/net6.0/Numbers.dll
+/home/nahid/Desktop/pracsrc/c#/Numbers/bin/Debug/net6.0/ref/Numbers.dll
+/home/nahid/Desktop/pracsrc/c#/Numbers/bin/Debug/net6.0/Numbers.pdb
+/home/nahid/Desktop/pracsrc/c#/Numbers/obj/Debug/net6.0/Numbers.csproj.AssemblyReference.cache
+/home/nahid/Desktop/pracsrc/c#/Numbers/obj/Debug/net6.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahid/Desktop/pracsrc/c#/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfoInputs.cache
+/home/nahid/Desktop/pracsrc/c#/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfo.cs
+/home/nahid/Desktop/pracsrc/c#/Numbers/obj/Debug/net6.0/Numbers.csproj.CoreCompileInputs.cache
+/home/nahid/Desktop/pracsrc/c#/Numbers/obj/Debug/net6.0/Numbers.dll
+/home/nahid/Desktop/pracsrc/c#/Numbers/obj/Debug/net6.0/ref/Numbers.dll
+/home/nahid/Desktop/pracsrc/c#/Numbers/obj/Debug/net6.0/Numbers.pdb
+/home/nahid/Desktop/pracsrc/c#/Numbers/obj/Debug/net6.0/Numbers.genruntimeconfig.cache

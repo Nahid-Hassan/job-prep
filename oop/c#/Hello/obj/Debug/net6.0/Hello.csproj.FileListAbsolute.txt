@@ -1,0 +1,15 @@
+/home/nahid/Desktop/pracsrc/c#/Hello/bin/Debug/net6.0/Hello
+/home/nahid/Desktop/pracsrc/c#/Hello/bin/Debug/net6.0/Hello.deps.json
+/home/nahid/Desktop/pracsrc/c#/Hello/bin/Debug/net6.0/Hello.runtimeconfig.json
+/home/nahid/Desktop/pracsrc/c#/Hello/bin/Debug/net6.0/Hello.dll
+/home/nahid/Desktop/pracsrc/c#/Hello/bin/Debug/net6.0/ref/Hello.dll
+/home/nahid/Desktop/pracsrc/c#/Hello/bin/Debug/net6.0/Hello.pdb
+/home/nahid/Desktop/pracsrc/c#/Hello/obj/Debug/net6.0/Hello.csproj.AssemblyReference.cache
+/home/nahid/Desktop/pracsrc/c#/Hello/obj/Debug/net6.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahid/Desktop/pracsrc/c#/Hello/obj/Debug/net6.0/Hello.AssemblyInfoInputs.cache
+/home/nahid/Desktop/pracsrc/c#/Hello/obj/Debug/net6.0/Hello.AssemblyInfo.cs
+/home/nahid/Desktop/pracsrc/c#/Hello/obj/Debug/net6.0/Hello.csproj.CoreCompileInputs.cache
+/home/nahid/Desktop/pracsrc/c#/Hello/obj/Debug/net6.0/Hello.dll
+/home/nahid/Desktop/pracsrc/c#/Hello/obj/Debug/net6.0/ref/Hello.dll
+/home/nahid/Desktop/pracsrc/c#/Hello/obj/Debug/net6.0/Hello.pdb
+/home/nahid/Desktop/pracsrc/c#/Hello/obj/Debug/net6.0/Hello.genruntimeconfig.cache

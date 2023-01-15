@@ -1,0 +1,15 @@
+/home/nahid/Desktop/pracsrc/c#/DataTypes/bin/Debug/net6.0/DataTypes
+/home/nahid/Desktop/pracsrc/c#/DataTypes/bin/Debug/net6.0/DataTypes.deps.json
+/home/nahid/Desktop/pracsrc/c#/DataTypes/bin/Debug/net6.0/DataTypes.runtimeconfig.json
+/home/nahid/Desktop/pracsrc/c#/DataTypes/bin/Debug/net6.0/DataTypes.dll
+/home/nahid/Desktop/pracsrc/c#/DataTypes/bin/Debug/net6.0/ref/DataTypes.dll
+/home/nahid/Desktop/pracsrc/c#/DataTypes/bin/Debug/net6.0/DataTypes.pdb
+/home/nahid/Desktop/pracsrc/c#/DataTypes/obj/Debug/net6.0/DataTypes.csproj.AssemblyReference.cache
+/home/nahid/Desktop/pracsrc/c#/DataTypes/obj/Debug/net6.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahid/Desktop/pracsrc/c#/DataTypes/obj/Debug/net6.0/DataTypes.AssemblyInfoInputs.cache
+/home/nahid/Desktop/pracsrc/c#/DataTypes/obj/Debug/net6.0/DataTypes.AssemblyInfo.cs
+/home/nahid/Desktop/pracsrc/c#/DataTypes/obj/Debug/net6.0/DataTypes.csproj.CoreCompileInputs.cache
+/home/nahid/Desktop/pracsrc/c#/DataTypes/obj/Debug/net6.0/DataTypes.dll
+/home/nahid/Desktop/pracsrc/c#/DataTypes/obj/Debug/net6.0/ref/DataTypes.dll
+/home/nahid/Desktop/pracsrc/c#/DataTypes/obj/Debug/net6.0/DataTypes.pdb
+/home/nahid/Desktop/pracsrc/c#/DataTypes/obj/Debug/net6.0/DataTypes.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/nahid/Desktop/pracsrc/c#/Strings/bin/Debug/net6.0/Strings
+/home/nahid/Desktop/pracsrc/c#/Strings/bin/Debug/net6.0/Strings.deps.json
+/home/nahid/Desktop/pracsrc/c#/Strings/bin/Debug/net6.0/Strings.runtimeconfig.json
+/home/nahid/Desktop/pracsrc/c#/Strings/bin/Debug/net6.0/Strings.dll
+/home/nahid/Desktop/pracsrc/c#/Strings/bin/Debug/net6.0/ref/Strings.dll
+/home/nahid/Desktop/pracsrc/c#/Strings/bin/Debug/net6.0/Strings.pdb
+/home/nahid/Desktop/pracsrc/c#/Strings/obj/Debug/net6.0/Strings.csproj.AssemblyReference.cache
+/home/nahid/Desktop/pracsrc/c#/Strings/obj/Debug/net6.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahid/Desktop/pracsrc/c#/Strings/obj/Debug/net6.0/Strings.AssemblyInfoInputs.cache
+/home/nahid/Desktop/pracsrc/c#/Strings/obj/Debug/net6.0/Strings.AssemblyInfo.cs
+/home/nahid/Desktop/pracsrc/c#/Strings/obj/Debug/net6.0/Strings.csproj.CoreCompileInputs.cache
+/home/nahid/Desktop/pracsrc/c#/Strings/obj/Debug/net6.0/Strings.dll
+/home/nahid/Desktop/pracsrc/c#/Strings/obj/Debug/net6.0/ref/Strings.dll
+/home/nahid/Desktop/pracsrc/c#/Strings/obj/Debug/net6.0/Strings.pdb
+/home/nahid/Desktop/pracsrc/c#/Strings/obj/Debug/net6.0/Strings.genruntimeconfig.cache

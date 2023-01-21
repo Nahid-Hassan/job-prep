@@ -11,6 +11,15 @@
     - [2.1 Environment Setup](#21-environment-setup)
     - [2.2 Tools we needed?:](#22-tools-we-needed)
     - [2.4 File Structure of a React App - Custom React Working Environment](#24-file-structure-of-a-react-app---custom-react-working-environment)
+  - [03 - Create-React-App Package](#03---create-react-app-package)
+    - [3.1 `create-react-app` usages](#31-create-react-app-usages)
+    - [3.6 Our First React Component](#36-our-first-react-component)
+  - [04 - React Components and Props - More Depth](#04---react-components-and-props---more-depth)
+    - [4.2 React Components and Props](#42-react-components-and-props)
+    - [4.3 Types of Components](#43-types-of-components)
+    - [4.4 Functional Components](#44-functional-components)
+    - [4.5 Try to Learn JSX - More...](#45-try-to-learn-jsx---more)
+    - [](#)
 
 
 ## 01 - Introduction
@@ -101,3 +110,108 @@ $ sudo npm -g install create-react-app  # helps to create react app
 $ npm install
 $ npm start
 ```
+
+## 03 - Create-React-App Package
+
+### 3.1 `create-react-app` usages
+
+```bash
+$ npx create-react-app app-name    # create react app
+$ npm start                        # to start react app
+$ npm run eject                    # eject react app - Learn something extra for this command
+```
+
+### 3.6 Our First React Component
+
+```bash
+$ cd src/
+$ rm react.*
+$ mkdir components
+$ touch components/app.jsx
+$ vim components/app.jsx
+
+...
+import React, {Component} from 'react';
+
+class App extends Component {
+    // presentation layer
+    render() {
+        // must contain a return method
+        return <h1>Hello Nahid</h1>;
+    }
+}
+
+// must export every components
+// default export
+export default App;
+
+$ npm start             #! show some errors
+
+# to fix that we need some changes in src/index.js
+
+$ vim index.js
+
+... 
+
+# import App from 'app'; 
+import App from './components/app';      # change to that
+
+$ npm start            # Congratulations 
+```
+
+## 04 - React Components and Props - More Depth
+
+### 4.2 React Components and Props
+
+```text
+Components {
+  // Data 
+  1. State - Any changes in state recall render().
+  2. Variables or Properties - Changes in variable don't call render()
+  3. Function or methods
+  4. Life Cycle Function - (Advanced Concept)
+
+  // Representation
+  render () {
+      // return jsx
+  }
+}
+
+```
+
+### 4.3 Types of Components
+
+1. Class Component - React Components 
+2. Functional Component - JavaScript Function as a Component
+
+> We already seen Class based Components.
+
+### 4.4 Functional Components
+
+!Warning - Not Tested this block of code.
+
+```js
+// functional components
+function myFunctionalComponent() {
+    const name = "Md. Nahid Hassan";
+    
+    // any function that return jsx is functional components
+    return <h1>H1 Tag - Try to understand functional Components</h1>;
+}
+
+// arrow function
+
+// explicit return
+const anotherFunctionalComponent  = () => {
+    return <p>I am another functional component - using arrow function to create component</p>;
+}
+
+// implicit return
+const anotherFunctionalComponent1 = () => (
+    <h1>Functional Components by arrow function - implicit return</h1>
+);
+```
+
+### 4.5 Try to Learn JSX - More...
+
+### How to use JSX in React

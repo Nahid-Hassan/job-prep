@@ -1,0 +1,15 @@
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/bin/Debug/net6.0/Calculator
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/bin/Debug/net6.0/Calculator.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/bin/Debug/net6.0/ref/Calculator.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/bin/Debug/net6.0/Calculator.pdb
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/obj/Debug/net6.0/Calculator.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/obj/Debug/net6.0/ref/Calculator.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/obj/Debug/net6.0/Calculator.pdb
+/media/nahid/data-center/workspace/job-prep/oop/c#/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache

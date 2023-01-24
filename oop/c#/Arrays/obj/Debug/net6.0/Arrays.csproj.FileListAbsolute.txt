@@ -1,0 +1,15 @@
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/bin/Debug/net6.0/Arrays
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/bin/Debug/net6.0/Arrays.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/bin/Debug/net6.0/ref/Arrays.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/bin/Debug/net6.0/Arrays.pdb
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/obj/Debug/net6.0/Arrays.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/obj/Debug/net6.0/ref/Arrays.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/obj/Debug/net6.0/Arrays.pdb
+/media/nahid/data-center/workspace/job-prep/oop/c#/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache

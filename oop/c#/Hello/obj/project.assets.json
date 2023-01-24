@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nahid/Desktop/pracsrc/c#/Hello/Hello.csproj",
+      "projectUniqueName": "/media/nahid/data-center/workspace/job-prep/oop/c#/Hello/Hello.csproj",
       "projectName": "Hello",
-      "projectPath": "/home/nahid/Desktop/pracsrc/c#/Hello/Hello.csproj",
+      "projectPath": "/media/nahid/data-center/workspace/job-prep/oop/c#/Hello/Hello.csproj",
       "packagesPath": "/home/nahid/.nuget/packages/",
-      "outputPath": "/home/nahid/Desktop/pracsrc/c#/Hello/obj/",
+      "outputPath": "/media/nahid/data-center/workspace/job-prep/oop/c#/Hello/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nahid/.nuget/NuGet/NuGet.Config"

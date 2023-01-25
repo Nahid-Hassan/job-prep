@@ -1,0 +1,15 @@
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/bin/Debug/net6.0/WhileLoop
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/bin/Debug/net6.0/WhileLoop.deps.json
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/bin/Debug/net6.0/WhileLoop.runtimeconfig.json
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/bin/Debug/net6.0/WhileLoop.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/bin/Debug/net6.0/ref/WhileLoop.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/bin/Debug/net6.0/WhileLoop.pdb
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/obj/Debug/net6.0/WhileLoop.csproj.AssemblyReference.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/obj/Debug/net6.0/WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/obj/Debug/net6.0/WhileLoop.AssemblyInfoInputs.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/obj/Debug/net6.0/WhileLoop.AssemblyInfo.cs
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/obj/Debug/net6.0/WhileLoop.csproj.CoreCompileInputs.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/obj/Debug/net6.0/WhileLoop.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/obj/Debug/net6.0/ref/WhileLoop.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/obj/Debug/net6.0/WhileLoop.pdb
+/media/nahid/data-center/workspace/job-prep/oop/c#/WhileLoop/obj/Debug/net6.0/WhileLoop.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/obj/Debug/net6.0/ForLoop.csproj.AssemblyReference.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/obj/Debug/net6.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/obj/Debug/net6.0/ForLoop.AssemblyInfoInputs.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/obj/Debug/net6.0/ForLoop.AssemblyInfo.cs
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/obj/Debug/net6.0/ForLoop.csproj.CoreCompileInputs.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/bin/Debug/net6.0/ForLoop
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/bin/Debug/net6.0/ForLoop.deps.json
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/bin/Debug/net6.0/ForLoop.runtimeconfig.json
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/bin/Debug/net6.0/ForLoop.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/bin/Debug/net6.0/ref/ForLoop.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/bin/Debug/net6.0/ForLoop.pdb
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/obj/Debug/net6.0/ForLoop.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/obj/Debug/net6.0/ref/ForLoop.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/obj/Debug/net6.0/ForLoop.pdb
+/media/nahid/data-center/workspace/job-prep/oop/c#/ForLoop/obj/Debug/net6.0/ForLoop.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/bin/Debug/net6.0/IfStatement
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/bin/Debug/net6.0/IfStatement.deps.json
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/bin/Debug/net6.0/IfStatement.runtimeconfig.json
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/bin/Debug/net6.0/IfStatement.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/bin/Debug/net6.0/ref/IfStatement.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/bin/Debug/net6.0/IfStatement.pdb
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/obj/Debug/net6.0/IfStatement.csproj.AssemblyReference.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/obj/Debug/net6.0/IfStatement.GeneratedMSBuildEditorConfig.editorconfig
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/obj/Debug/net6.0/IfStatement.AssemblyInfoInputs.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/obj/Debug/net6.0/IfStatement.AssemblyInfo.cs
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/obj/Debug/net6.0/IfStatement.csproj.CoreCompileInputs.cache
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/obj/Debug/net6.0/IfStatement.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/obj/Debug/net6.0/ref/IfStatement.dll
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/obj/Debug/net6.0/IfStatement.pdb
+/media/nahid/data-center/workspace/job-prep/oop/c#/IfStatement/obj/Debug/net6.0/IfStatement.genruntimeconfig.cache

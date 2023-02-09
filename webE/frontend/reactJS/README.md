@@ -19,7 +19,7 @@
     - [4.3 Types of Components](#43-types-of-components)
     - [4.4 Functional Components](#44-functional-components)
     - [4.5 Try to Learn JSX - More...](#45-try-to-learn-jsx---more)
-    - [](#)
+    - [How to use JSX in React](#how-to-use-jsx-in-react)
 
 
 ## 01 - Introduction

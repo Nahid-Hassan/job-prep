@@ -1,0 +1,14 @@
+.container {
+    margin: 2% 5% 1% 5%;
+    border: 2px solid gray;
+    padding: 10px;
+    border-radius: 10px 100px / 120px;
+    background-color: #f7f7f7;
+}
+
+.text-center {
+    text-align: center;
+    font-weight: 300;
+    font-style: oblique;
+    font-size: large;
+}

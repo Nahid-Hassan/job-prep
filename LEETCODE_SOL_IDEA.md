@@ -9,6 +9,7 @@
 |55|Jump Game| Greedy Approach |
 |124| Binary Tree Maximum Path Sum| Get `maxLeft` and `maxRight`, `res = max(res, mxLeft + mxRight + root->val)`| 
 |134| Gas Station| if `sum(gas) < sum(cost)` return -1 else iterative check. |
+|190| Reverse the Bits |Iteratively reverse all the bits|
 |200| Number of Islands| Just find the connected component numbers in grid (`dfs`)|
 |205| Isomorphic Strings| Using two `unordered_map` and `indexing`|
 |238| Product of Array Except Self|Idea - 1: Prefix sum and Postfix Sum `left - index - right`|
@@ -17,6 +18,7 @@
 |350| Intersection of Two Arrays II|`Frequency Counting`  using `unordered_map`. Ordering not needed.|
 |    409     | Longest Palindrome                 | Count letter frequency, then sum up all even, for odd freq sum up like `(odd_value - 1)` and store `carry = 1`; if an only if odd freq letter found. return `len + carry`                                                                                      |
 |441| Arranging Coins| x = (1 + sqrt(8 * n)) / 2, `(int)((sqrt(1 + 8 *(long)n) - 1)/2)`| 
+|504| Base 7| `to_chars(buf.begin(), buf.end(), number, base)` or iterative way|
 |520| Detect Capital|Count the capital character and check condition and return, be careful when `count == 1`|
 |598| Range Addition II| find the `min_row` and `min_col` and return the `min_row * min_col` if ops size is zero return `m * n` |
 |    692     | Top K Frequent Words               | Count word frequency and then sort the map based on value. <pre>static bool cmp(pair<string, int> &a, pair<string, int> &b) { <br>    if (a.second == b.second) return a.first < b.first; <br>    else return a.second > b.second;<br>}</pre>                  |
@@ -41,6 +43,7 @@
 |1704| Determine if String Halves Are Alike|Count `vowel` for first half `count++` for second half `count--` then `return count == 0`|
 |1962| Remove Stones to Minimize the Total| Just using `priority_queue` and simple logic| 
 |2085| Count Common Words With One Occurrence| Using `unordered_map` and `frequency count`|
+| 2119| A Number After a Double Reversal| Just check last digit is zero or not! |
 |2125| Number of Laser Beams in a Bank| Count ones and calculate product. |
 |2129| Capitalize the Title| Two pointers |
 |2154| Keep Multiplying Found Values by Two| Using unordered_map for searching or you can use binary_search for searching | 

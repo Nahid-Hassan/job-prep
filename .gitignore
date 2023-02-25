@@ -4,6 +4,7 @@ Algorithms/
 *.d
 neetcode/
 DSAlgo/
+final-dsa/
 
 # Compiled Object files
 *.slo

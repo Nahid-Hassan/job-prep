@@ -2,8 +2,8 @@
 using namespace std;
 
 class String {
-    size_t len_;
     char *str_;
+    size_t len_;
 
    public:
     String(char *s) : str_(strdup(s)), len_(strlen(str_)) {

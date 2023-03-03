@@ -47,7 +47,7 @@ void merge(vector<int>& arr, int l, int mid, int h) {
 
 void mergeSort(vector<int>& arr, int l, int h) {
     if (l < h) {
-        int mid = l + ((h - l) >> 2);
+        int mid = l + ((h - l) >> 1);
         mergeSort(arr, l, mid);
         mergeSort(arr, mid + 1, h);
         merge(arr, l, mid, h);

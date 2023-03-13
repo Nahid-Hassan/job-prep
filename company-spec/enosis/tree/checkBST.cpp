@@ -37,6 +37,8 @@ void preorder(TreeNode* root) {
     preorder(root->right);
 }
 
+
+
 bool isBST(TreeNode* root, TreeNode* left, TreeNode* right) {
     if (!root) return true;
     if (left and root->data <= left->data) return false;

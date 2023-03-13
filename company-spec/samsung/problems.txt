@@ -2,8 +2,8 @@ I have attached some code.
 Check it out.
 
 Must Do Problem:
-1. Aggressive Cow
-2. Bi-coloring
+1. Aggressive Cow - Done
+2. Bi-coloring - (Trying...)
 3. Bomb Spaceship
 4. Burst Ballons
 5. Camel

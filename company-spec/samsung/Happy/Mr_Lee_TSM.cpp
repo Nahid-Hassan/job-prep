@@ -3,8 +3,12 @@
 using namespace std;
 int n,adj[mx][mx],dp[999][mx];
 int visAll;
+
 int TSM(int mask,int pos){
-    if(mask==visAll) return adj[pos][0];
+    if(mask==visAll) {
+        cout << mask << endl;
+        return adj[pos][0];
+    }
     if(dp[mask][pos]!=-1) return dp[mask][pos];
     int ans=INT_MAX;
     for(int city=0;city<n;city++){
@@ -26,6 +30,7 @@ int main(){
                 cin>>adj[i][j];
             }
         }
+
         visAll=(1<<n)-1;
         memset(dp,-1,sizeof dp);
         int ans=TSM(1,0);

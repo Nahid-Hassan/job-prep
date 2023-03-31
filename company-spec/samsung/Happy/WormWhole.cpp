@@ -4,6 +4,7 @@ int n,w[100][5],mask[100],ans;
 int dist(int sx,int sy,int tx,int ty){
     return abs(sx-tx)+abs(sy-ty);
 }
+
 void wormwhole(int sx,int sy,int tx,int ty,int cost){
     if(cost>ans) return;
     ans=min(ans,cost+dist(sx,sy,tx,ty));
@@ -18,6 +19,7 @@ void wormwhole(int sx,int sy,int tx,int ty,int cost){
         }
     }
 }
+
 int main(){
     int t,sx,sy,tx,ty;
     cin>>t;

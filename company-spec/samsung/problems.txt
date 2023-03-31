@@ -39,3 +39,17 @@ https://github.com/twowaits/SDE-Interview-Questions/blob/master/Samsung/README.m
 https://github.com/s-kachroo/SamsungPractice
 https://www.geeksforgeeks.org/samsung-interview-preparation/
 
+
+Must Problem:
+
+1. Travelling SalesMan
+2. Flip Columns
+3. Endoscope
+4. Kim and Refrigerators
+5. Warmholes
+6. Burst Balloons Optimally
+7. Fisherman
+8. Aeroplane Bombing
+9. Rock Climbing
+10. Sum of nodes at kth level
+11. Detect cycle in directed graph

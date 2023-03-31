@@ -5,10 +5,11 @@ In this documentation file, I trying to contribute my daily basis `Samsung` comp
 **Table of Contents**:
 
 - [Samsung Preparation](#samsung-preparation)
-  - [Aggressive Cows (SPOJ) - (2023-03-13)](#aggressive-cows-spoj---2023-03-13)
+  - [01. Aggressive Cows (SPOJ) - (2023-03-13)](#01-aggressive-cows-spoj---2023-03-13)
+  - [04 . Brust Ballons - LeetCode](#04--brust-ballons---leetcode)
 
 
-## Aggressive Cows (SPOJ) - (2023-03-13)
+## 01. Aggressive Cows (SPOJ) - (2023-03-13)
 
 - Problem Link: [Aggressive cows - SPOJ](https://www.spoj.com/problems/AGGRCOW/)
 - [Sol - Youtube](https://youtu.be/SiE1XFhYoaA)
@@ -69,3 +70,7 @@ int main() {
     return 0;
 }
 ```
+
+## 04 . Brust Ballons - LeetCode
+
+- [Problem Link](https://leetcode.com/problems/burst-balloons/)

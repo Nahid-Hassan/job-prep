@@ -12,7 +12,7 @@ class MyList:
         if isinstance(index_or_slice, slice):
             start, stop, step = index_or_slice.indices(len(self))
             # print(start, stop, step)
-            return list(MyList([self.data[i] for i in range(start, stop, step)]))
+            return MyList([self.data[i] for i in range(start, stop, step)])
         else:
             return self.data[index_or_slice]
 

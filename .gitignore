@@ -2,6 +2,7 @@
 Algorithms/
 # Prerequisites
 *.d
+*.vscode/
 neetcode/
 DSAlgo/
 final-dsa/

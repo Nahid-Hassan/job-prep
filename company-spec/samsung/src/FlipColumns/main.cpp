@@ -22,9 +22,17 @@ int main() {
         }
         mp[s]++;
     }
+    // mp['100'] = 2
+    // mp['101'] = 1
 
     int ans = INT_MIN;
     for (auto it : mp) {
+        // it.first = 100
+        // it.second = 2
+
+        // it.first = 101
+        // it.second = 1
+
         int count_zero = 0;
         for (char c : it.first) {
             if (c == '0') {

@@ -17,7 +17,7 @@ int main() {
      * 
     */
     for (int i = 0; i < (int) s.size(); i++) {
-        if (s[i] == '(') depth++;
+        if (s[i] == '(') depth++;   
         else if (s[i] == ')') depth--;
         else {
             int temp = 0;

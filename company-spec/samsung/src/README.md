@@ -22,14 +22,14 @@
 | Juwel Maze             |          |               |         |
 | Kim Refrigerator       |          |               |         |
 | Men Restroom           |    Y     | [Link][3]     |         |
-| Mr. Lee(TSM)           |    Y     | [Link][5]              |         |
+| Mr. Lee(TSM)           |    Y     | [Link][5]     |         |
 | Oil Mine               |          |               |         |
 | Physical Energy        |          |               |         |
 | Piller Pipe            |          |               |         |
 | Research Team          |          |               |         |
 | Rock Climb             |          |               |         |
 | Sum of Node k-th Level |    Y     | [Link][4]     |         |
-| Wormwhole              |          |               |         |
+| Wormwhole              |    Y     | [Link][6]     |         |
 
 
 ### Less Important
@@ -47,3 +47,4 @@
 [3]: https://github.com/Nahid-Hassan/job-prep/tree/main/company-spec/samsung/src/MenRestroom
 [4]: https://github.com/Nahid-Hassan/job-prep/tree/main/company-spec/samsung/src/SumOfNodesInKthLevel
 [5]: https://github.com/Nahid-Hassan/job-prep/tree/main/company-spec/samsung/src/TravellingSalesPerson
+[6]: https://github.com/Nahid-Hassan/job-prep/tree/main/company-spec/samsung/src/Warmholes

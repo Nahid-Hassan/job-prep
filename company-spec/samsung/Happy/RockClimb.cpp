@@ -1,13 +1,13 @@
 #include<bits/stdc++.h>
 using namespace std;
-struct node{
-    int x,y,l;
-};
+
 int m,n,vis[100][100],cell[100][100];
 int flag,k;
+
 bool isValid(int x,int y){
     return (x>=0 && y>=0 &&x<m && y<n && cell[x][y]!=0 && !vis[x][y]);
 }
+
 void solve(int x,int y){
     vis[x][y]=1;
     if(cell[x][y]==3){

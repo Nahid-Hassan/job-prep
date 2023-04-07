@@ -7,18 +7,24 @@ int m,n,vis[100][100],cell[100][100];
 bool isValid(int x,int y){
     return (x>=0 && y>=0 &&x<m && y<n && cell[x][y]!=0 && !vis[x][y]);
 }
+// 1247
 bool isUp(int x,int y){
     return (cell[x][y]==1 || cell[x][y]==2 || cell[x][y]==4 || cell[x][y]==7);
 }
+// 1256
 bool isDown(int x,int y){
     return (cell[x][y]==1 || cell[x][y]==2 || cell[x][y]==5 || cell[x][y]==6);
 }
+// 1367
 bool isLeft(int x,int y){
     return (cell[x][y]==1 || cell[x][y]==3 || cell[x][y]==6 || cell[x][y]==7);
 }
+// 1345
 bool isRight(int x,int y){
     return (cell[x][y]==1 || cell[x][y]==3 || cell[x][y]==4 || cell[x][y]==5);
 }
+
+// bfs call
 int solve(int sx,int sy,int len){
     memset(vis,0,sizeof vis);
     int cnt=0;

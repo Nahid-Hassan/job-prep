@@ -24,7 +24,7 @@ void solve(int i, int node, int cost) {
 }
 
 int main() {
-    freopen("in.txt", "r", stdin);
+    // freopen("in.txt", "r", stdin);
     for (int i = 1; i <= 10; i++) {
         cin >> N;
         cin >> x[0] >> y[0] >> x[N + 1] >> y[N + 1];
@@ -34,6 +34,6 @@ int main() {
         memset(mask, 0, sizeof mask);
         ans = INT_MAX;
         solve(0, 0, 0);
-        cout << "#" << i << " " << ans << endl;
+        cout << "# " << i << " " << ans << endl;
     }
 }

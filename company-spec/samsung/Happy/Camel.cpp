@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int n,arr[100],vis[100],ans;
+
 void solve(int flag,int cost,int cnt){
     if(cost>ans) return;
     if(cnt==n){

@@ -1,19 +1,24 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 struct gate{
     int loc,man;
 }gates[4];
+
 int n,ans,arr[100];
+
 int findLeft(int ind){
     for(int i=ind;i>0;i--)
         if(arr[i]==0) return i;
     return INT_MAX;
 }
+
 int findRight(int ind){
     for(int i=ind+1;i<=n;i++)
         if(arr[i]==0) return i;
     return INT_MAX;
 }
+
 void solve(int x,int y,int z,int cost,int cur_gate){
     if(gates[cur_gate].man==0){
         if(cur_gate==x) cur_gate=y;
@@ -47,6 +52,7 @@ void solve(int x,int y,int z,int cost,int cur_gate){
         arr[r]=0;
     }
 }
+
 int main(){
     int t;
     scanf("%d",&t);

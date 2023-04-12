@@ -1,6 +1,6 @@
 # Enosis: Leetcode Patterns
 
-- [Leetcode Patterns](#leetcode-patterns)
+- [Enosis: Leetcode Patterns](#enosis-leetcode-patterns)
   - [217. Contains Duplicate **\[DONE\]**](#217-contains-duplicate-done)
   - [468. Validate IP Address **\[DONE\]**](#468-validate-ip-address-done)
   - [2299. Strong Password Checker II **\[DONE\]**](#2299-strong-password-checker-ii-done)
@@ -14,7 +14,8 @@
 https://leetcode.com/problems/contains-duplicate/
 
 ```text
-Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+Given an integer array nums, return true if any value appears at least twice in the array, 
+and return false if every element is distinct.
 
  
 
@@ -56,17 +57,23 @@ public:
 https://leetcode.com/problems/validate-ip-address/
 
 ```text
-Given a string queryIP, return "IPv4" if IP is a valid IPv4 address, "IPv6" if IP is a valid IPv6 address or "Neither" if IP is not a correct IP of any type.
+Given a string queryIP, return "IPv4" if IP is a valid IPv4 address, "IPv6" if IP is a valid IPv6 address 
+or "Neither" if IP is not a correct IP of any type.
 
-A valid IPv4 address is an IP in the form "x1.x2.x3.x4" where 0 <= xi <= 255 and xi cannot contain leading zeros. For example, "192.168.1.1" and "192.168.1.0" are valid IPv4 addresses while "192.168.01.1", "192.168.1.00", and "192.168@1.1" are invalid IPv4 addresses.
+A valid IPv4 address is an IP in the form "x1.x2.x3.x4" where 0 <= xi <= 255 and xi cannot contain 
+leading zeros. For example, "192.168.1.1" and "192.168.1.0" are valid IPv4 addresses 
+while "192.168.01.1", "192.168.1.00", and "192.168@1.1" are invalid IPv4 addresses.
 
 A valid IPv6 address is an IP in the form "x1:x2:x3:x4:x5:x6:x7:x8" where:
 
     * 1 <= xi.length <= 4
-    * xi is a hexadecimal string which may contain digits, lowercase English letter ('a' to 'f') and upper-case     English letters ('A' to 'F').
+    * xi is a hexadecimal string which may contain digits, lowercase English letter ('a' to 'f') and 
+      upper-case English letters ('A' to 'F').
     * Leading zeros are allowed in xi.
 
-For example, "2001:0db8:85a3:0000:0000:8a2e:0370:7334" and "2001:db8:85a3:0:0:8A2E:0370:7334" are valid IPv6 addresses, while "2001:0db8:85a3::8A2E:037j:7334" and "02001:0db8:85a3:0000:0000:8a2e:0370:7334" are invalid IPv6 addresses.
+For example, "2001:0db8:85a3:0000:0000:8a2e:0370:7334" and "2001:db8:85a3:0:0:8A2E:0370:7334" 
+are valid IPv6 addresses, while "2001:0db8:85a3::8A2E:037j:7334" and 
+"02001:0db8:85a3:0000:0000:8a2e:0370:7334" are invalid IPv6 addresses.
 
 
 Example 1:
@@ -174,8 +181,10 @@ A password is said to be strong if it satisfies all the following criteria:
     * It contains at least one lowercase letter.
     * It contains at least one uppercase letter.
     * It contains at least one digit.
-    * It contains at least one special character. The special characters are the characters in the following string: "!@#$%^&*()-+".
-    * It does not contain 2 of the same character in adjacent positions (i.e., "aab" violates this condition, but "aba" does not).
+    * It contains at least one special character. The special characters are the characters in the 
+    following string: "!@#$%^&*()-+".
+    * It does not contain 2 of the same character in adjacent positions 
+    (i.e., "aab" violates this condition, but "aba" does not).
 
 Given a string password, return true if it is a strong password. Otherwise, return false.
 
@@ -189,7 +198,8 @@ Example 2:
 
     Input: password = "Me+You--IsMyDream"
     Output: false
-    Explanation: The password does not contain a digit and also contains 2 of the same character in adjacent positions. Therefore, we return false.
+    Explanation: The password does not contain a digit and also contains 2 of the same character in 
+    adjacent positions. Therefore, we return false.
 
 Example 3:
 
@@ -257,7 +267,8 @@ https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-6
 ```text
 You are given a list of songs where the ith song has a duration of time[i] seconds.
 
-Return the number of pairs of songs for which their total duration in seconds is divisible by 60. Formally, we want the number of indices i, j such that i < j with (time[i] + time[j]) % 60 == 0.
+Return the number of pairs of songs for which their total duration in seconds is divisible by 60. 
+Formally, we want the number of indices i, j such that i < j with (time[i] + time[j]) % 60 == 0.
 
  
 

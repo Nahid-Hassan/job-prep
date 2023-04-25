@@ -15,7 +15,7 @@ void printRooms() {
 
 void solve(int rooms, int person) {
     memset(array, 0, sizeof array);
-    for (int i = 1; i <= person; i++) {
+    for (int p = 1; p <= person; p++) {
         int count = 0; // countZero
         int ans = 0;   // store contains max zeros in seq
         int lastZero = 0; // lastZero 

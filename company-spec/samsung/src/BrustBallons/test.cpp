@@ -1,15 +1,16 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
-int solve(int arr[], int l, int r, int n) {
+int solve(vector<int>& arr, int l, int r, int n) {
     int mx = 0;
 
     for (int i = l + 1; i < r; i++) {
         int cs = solve(arr, l, i, n) + solve(arr, i, r, n);
-        if (l == 0 and r == n) cs += arr[i];  // addition
-        else cs += (arr[l] * arr[r]);  // multiply
-        if (cs > mx) mx = cs;
+        if (l == 0 and r == n) cs += arr[i];
+        else cs += (arr[l] * arr[r]);
+        if (mx < cs) mx = cs;
     }
+
     return mx;
 }
 
@@ -19,12 +20,8 @@ int main() {
     int n;
     cin >> n;
 
-    int arr[n+2];
-    
-    arr[0] = 1;
-    arr[n+1] = 1;
-
-    for (int i = 1; i <= n; i++) {
+    vector<int> arr(n + 2, 1);
+    for(int i = 1; i <= n; i++) {
         cin >> arr[i];
     }
 

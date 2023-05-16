@@ -6,6 +6,7 @@
   - [Create your first **Binary Tree**:](#create-your-first-binary-tree)
   - [Depth First Traverse - Using Stack (Iterative)](#depth-first-traverse---using-stack-iterative)
   - [Breadth First Search - Queue](#breadth-first-search---queue)
+  - [Binary Search Tree](#binary-search-tree)
 
 Being a **Binary Tree**:
 
@@ -131,3 +132,12 @@ void bft(TreeNode* root) {
     }
 }
 ```
+
+## Binary Search Tree
+
+BST used in Set, Map and Priority Queue
+
+- Create, Insertion and Deletion
+- Traverse (Inorder, PostOrder and PreOrder)
+- Find Minimum and Maximum
+- Inorder Predecessor 

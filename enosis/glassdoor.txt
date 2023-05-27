@@ -1,0 +1,135 @@
+=========================================
+                2023
+=========================================
+
+Person - 1
+========================
+Interview
+2-phase interview process, online. Needed to code on C#, they will help with the syntax. They provided the link to the editor where the boilerplate code was. First phase was quite easy, second phase was more difficult.
+
+Interview Questions
+Needed to find the 2nd max element of an array in one loop for one of the problems.
+
+
+Person - 2
+========================
+Interview
+1. They test candidates' problem-solving skills for the post of Senior Software Engineer. I think it's not a good practice. 2. To develop a testing app they provide online IDE which was full of errors in the compile time
+
+Interview Questions
+1. They test candidates' problem-solving skills for the post of Senior Software Engineer. I think it's not a good practice. 2. To develop a testing app they provide online IDE which was full of errors in the compile time
+
+Person - 3
+=======================
+Interview
+There would be multiple rounds. I have attended the first round only. 1st Round: An online coding test with hackerrank . There was 2problems of medium level. 60miniutes time to complete. 2nd round will be in C#
+
+Interview Questions
+An online coding test with two problems in 60mins
+
+Person - 4
+=======================
+Interview
+There was 2 steps coding test. In each test, there were 2 problems to solve. The first one was more like an implementation test and the second one was more analytical.
+
+Interview Questions
+Build a link-listed tree structure with the left and right children.
+
+
+Person - 5
+=======================
+Interview
+First Step: Coding Test; given 2 problems and 1 hour time based on data structures, ad-hoc. Second Step: This step also problems solving Third Step: HR interview asked some basic question about myself
+
+Interview Questions
+Basic OOP, how I think to solve the problem during a coding interview
+
+
+=========================================
+            2022
+=========================================
+
+
+Person - 6
+===================
+Interview
+There are 3 phases: (1) A 75 minute online coding test, over hackerrank, there were 2 data structures and algorithms problems, similar to competitive programming structure. (2) A technical live session over google meet. Technical problem solving, similar to round 1 but a little harder in difficulty. (3) An HR interview
+
+Interview Questions
+Asked me about algorithm problems
+
+
+Person - 7
+==================
+Interview
+I had some problem-solving and had a viva with them.it is a fantastic experience. questions has proper standards. company is very good and their culture seems amazing to me. overall awesome
+
+Interview Questions
+they asked about problem solving
+
+Person - 6
+==================
+Interview
+First step will be in hacker rank. There will be 3 questions in first step. And candidate have to submit those in 75 mins. Basic things like function call , string , array , loop , nested loop anyone should have knowledge before applying.
+
+Interview Questions
+First step - 3 questions like problem solving.
+
+
+Person - 7
+===================
+Interview
+I was invited to a google meet. Selected IDE was visual studio which i had no experience on. I tried it for a few days before the interview. Shared my screen and had to code on their pc remotely. Time limit was 45 minutes.
+
+Interview Questions
+Center aligning a right angled triangle of numbers. the limit will be given for the base level. and from that, a pyramid had to made.
+
+Person - 8
+=======================
+Interview
+First an initial coding test was arranged at hacker rank. There were 3 questions. If one able to solve all of those may be eligible for the technical interview. And after that HR interview.
+
+Interview Questions
+Famous questions for interview available on internet.
+
+Person - 9
+========================
+Interview
+It was my first interview and I was nervous, that's why couldn't do very well in the interview. They gave three problems from hackerrank. One array problem, one string manipulation related problem and another one was from graph topic.
+
+Interview Questions
+Convert a string into a pallindrome making least possible change.
+
+
+Person - 10
+======================
+Interview
+It was a good interview. The first phase was done by the hackerrank problem solving and the second phase which is the technical session also a problem-solving session for me.
+
+Interview Questions
+There are 3 problems are given in the hackerrank. All these 3 are programming problem and looks easy to me.
+
+Person - 11
+=======================
+Interview
+I applied online from their website. After a few days they called me for the interview. I had to code in their platform. The meeting lasted for 15 mins approx.
+
+Interview Questions
+Basic problem which are availalble in leetcode.
+
+Person - 12
+=================
+Interview
+2 rounds of interview where they give a problem to solve. In 1st round they give very basic problem. In 2nd round they give average difficulty problem. If you pass the 1st round , they call you for 2nd round.
+
+Interview Questions
+Round 1.
+Make a one sorted array from two different sorted arrays without sort function.
+Given an array of numbers. Calculate the absolute difference between sum of odd elements and even elements
+Round 2:
+Encrypt a string with given rules.
+
+Person - 13
+====================
+Interview
+1st round - 15 minute coding interview, easiest questions, like find average of an array without max,min. This coding was done in shared doc, no IDE/text editor 2nd Round - 1h coding interview, 2-3 question, around 20min each, little bit harder problems, recursion,string manipulation, maybe some tree, stack etc. This coding was done in interviewee's computer via team teamviewer like remote control software, in C#, Visual Studio The interviewee was helpful throughout the process and guided clearly. If goes well, then HR interview, basically they ask about availability for the job, then recruit.

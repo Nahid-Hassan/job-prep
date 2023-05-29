@@ -56,6 +56,10 @@
 
 - [Cracking the Coding Interview](https://github.com/Nahid-Hassan/job-prep/blob/main/interview-books/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions%20Gayle%20Laakmann%20McDowell.pdf)
 
+## Solving Idea
+
+![images](flowchart.png)
+
 ## Other Resources
 
 - CP Algorithms

@@ -1,0 +1,72 @@
+Person - 1
+===============================
+Interview
+- 1st stage: Technical Interview [Skills in problem-solving, understanding of oop]
+- 2nd stage: Technical Interview [Selected technologies] 
+- 3rd stage: HR Interview All of them are taken online / google meet.
+
+Problem-Solving (array, list) - SQL - OOP - Debugging - C#, .Net Core, ORM - Rest API
+ 
+
+Person - 2
+===============================
+Application
+I applied online. The process took 5 weeks. I interviewed at WellDev (Dhaka)
+
+Interview
+Very lengthy interview process. 3 technical rounds. Asked basic questions about DSA , OOP and problem-solving.
+First two rounds, was asked to write pseudocode in a Doc.
+COO to code in IDE and required runnable code.
+Found their judgment questionable.
+
+Interview Questions
+COO: Tell me something that will convince me to hire you.
+
+Person - 3
+===============================
+Application
+I applied online. The process took 3 months. I interviewed at WellDev in Apr 2023
+
+Interview
+It was a very long process. Took about 2-3 months. There are multiple phases. 
+1) MCQ online test 
+2) HR interview + Technical Interview. Did not qualify for the next steps. 
+Interviewers were very friendly.
+
+Interview Questions
+1) MCQ: Basic IQ questions, English, math, analytical, basic CS questions, some code output questions 
+2) HR interview q's: Introduce yourself, what stack u wanna work with, do you wanna go abroad, strengths & weaknesses, how would your friends, parents, and teachers describe you? Technical q's: Swap w/o third variable, basic SQL questions, binary search, complexity questions, array problems, and others
+
+Person - 4
+===============================
+Application
+I interviewed at WellDev
+
+Interview
+1. Mcq ( Basic Computer Science and English) 2. HR Inerview + 1st Technical Round ( You have to solve basic algorithmic pronlems an write some sqls. Also clear concept of OOP) 3. 2nd Technical Round( Same as 1st round but the difficulty level is higher.) 4. Behavioural Interview
+
+Interview Questions
+Difference between left outer join and right outer join.
+
+
+Person - 5
+==============================
+Application
+I interviewed at WellDev
+
+Interview
+an aptitude test What are the Object-Oriented Principles? Describe Encapsulation with examples? Deletion and insertion of circular linked list Data structures used in DFS and BFS? Explain how insertion sort is works write codes for a given array Details on Two pointers,bfs,dfs,mergesort,quicksort,recursion,time complexity,rdbms,OOP e.t.c.
+
+Interview Questions
+i didn't qualified for the next round
+
+Person - 6
+=============================
+Application
+I applied online. The process took 3 months. I interviewed at WellDev (Dhaka) in Jan 2023
+
+Interview
+The interview process started at mid October ended in mid January next year. Approximately It took 3 months. A technical mcq assessment, 2nd interview consisting a HR session and technical round and third interview usually a technical round. After getting passed the previous rounds, I got call for the final "technical" round. I was expecting a technical coding round, whereas what I got I mere basic questions and database conceptual questions. I asked the interviewer whether there were any technical part coming forth. Interviewer said, "No". I was a bit confused, after the interview. As you couldn't predict the outcome beforehand where the interview was pretty basic. I felt little about suspicious about it. I was correct about my gut feeling. I got the rejection mail after two days.
+
+Interview Questions
+In the mcq round: Basic DS, analytical questions, copied from Internet. In the HR round: basic questions about yourself and your future plan. In the first technical round: basic problem solving. In the third round: Some question answering stuffs (eg: databse, your projects) instead of coding round.

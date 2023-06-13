@@ -17,7 +17,7 @@ struct TreeNode {
 
 
 void printTree(TreeNode *root) {
-    
+
 }
 
 int main() {
@@ -36,4 +36,3 @@ int main() {
 
     return 0;
 }
-

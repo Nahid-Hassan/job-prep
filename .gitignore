@@ -1,6 +1,7 @@
 # Algorithms
 Algorithms/
 # Prerequisites
+faang/
 *.d
 *.vscode/
 neetcode/

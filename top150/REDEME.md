@@ -1,95 +1,95 @@
 ### Must be solved before interview calling...
 
-| Category             | Problem                                           | Difficulty | Unmarked Box |
-|----------------------|---------------------------------------------------|------------|--------------|
-| Array / String       | Merge Sorted Array                                | Easy       | Marked     |
-|                      | Remove Element                                    | Easy       | Marked     |
-|                      | Remove Duplicates from Sorted Array               | Easy       | Marked     |
-|                      | Remove Duplicates from Sorted Array II            | Medium     | Marked     |
-|                      | Majority Element                                  | Easy       | Marked     |
-|                      | Rotate Array                                      | Medium     | Marked     |
-|                      | Best Time to Buy and Sell Stock                   | Easy       | Marked     |
-|                      | Best Time to Buy and Sell Stock II                | Medium     | Marked     |
-|                      | Jump Game                                         | Medium     | Marked     |
-|                      | Jump Game II                                      | Medium     | Marked     |
-|                      | H-Index                                           | Medium     | Unmarked     |
-|                      | Insert Delete GetRandom O(1)                      | Medium     | Marked     |
-|                      | Product of Array Except Self                      | Medium     | Marked     |
-|                      | Gas Station                                       | Medium     | Unmarked     |
-|                      | Candy                                             | Hard       | Unmarked     |
-|                      | Trapping Rain Water                               | Hard       | Unmarked     |
-|                      | Roman to Integer                                  | Easy       | Unmarked     |
-|                      | Integer to Roman                                  | Medium     | Unmarked     |
-|                      | Length of Last Word                               | Easy       | Marked     |
-|                      | Longest Common Prefix                             | Easy       | Marked     |
-|                      | Reverse Words in a String                         | Medium     | Marked     |
-|                      | Zigzag Conversion                                 | Medium     | Unmarked     |
-|                      | Find the Index of the First Occurrence in a String| Easy       | Marked     |
-|                      | Text Justification                                | Hard       | Unmarked     |
-| Two Pointers         | Valid Palindrome                                  | Easy       | Marked     |
-|                      | Is Subsequence                                    | Easy       | Marked     |
-|                      | Two Sum II - Input Array Is Sorted                | Medium     | Marked     |
-|                      | Container With Most Water                         | Medium     | Marked     |
-|                      | 3Sum                                              | Medium     | Unmarked     |
-| Sliding Window       | Minimum Size Subarray Sum                         | Medium     | Unmarked     |
-|                      | Longest Substring Without Repeating Characters    | Medium     | Unmarked     |
-|                      | Substring with Concatenation of All Words         | Hard       | Unmarked     |
-|                      | Minimum Window Substring                          | Hard       | Unmarked     |
-| Matrix               | Valid Sudoku                                      | Medium     | Unmarked     |
-|                      | Spiral Matrix                                     | Medium     | Unmarked     |
-|                      | Rotate Image                                      | Medium     | Unmarked     |
-|                      | Set Matrix Zeroes                                 | Medium     | Unmarked     |
-|                      | Game of Life                                      | Medium     | Unmarked     |
-| Hashmap              | Ransom Note                                       | Easy       | Unmarked     |
-|                      | Isomorphic Strings                                | Easy       | Unmarked     |
-|                      | Word Pattern                                      | Easy       | Unmarked     |
-|                      | Valid Anagram                                     | Easy       | Unmarked     |
-|                      | Group Anagrams                                    | Medium     | Unmarked     |
-|                      | Two Sum                                           | Easy       | Unmarked     |
-|                      | Happy Number                                      | Easy       | Unmarked     |
-|                      | Contains Duplicate II                             | Easy       | Unmarked     |
-|                      | Longest Consecutive Sequence                      | Medium     | Unmarked     |
-| Intervals            | Summary Ranges                                    | Easy       | Unmarked     |
-|                      | Merge Intervals                                   | Medium     | Unmarked     |
-|                      | Insert Interval                                   | Medium     | Unmarked     |
-|                      | Minimum Number of Arrows to Burst Balloons        | Medium     | Unmarked     |
-| Stack                | Valid Parentheses                                 | Easy       | Unmarked     |
-|                      | Simplify Path                                     | Medium     | Unmarked     |
-|                      | Min Stack                                         | Medium     | Unmarked     |
-|                      | Evaluate Reverse Polish Notation                  | Medium     | Unmarked     |
-|                      | Basic Calculator                                  | Hard       | Unmarked     |
-| Linked List          | Linked List Cycle                                 | Easy       | Unmarked     |
-|                      | Add Two Numbers                                   | Medium     | Unmarked     |
-|                      | Merge Two Sorted Lists                            | Easy       | Unmarked     |
-|                      | Copy List with Random Pointer                     | Medium     | Unmarked     |
-|                      | Reverse Linked List II                            | Medium     | Unmarked     |
-|                      | Reverse Nodes in k-Group                          | Hard       | Unmarked     |
-|                      | Remove Nth Node From End of List                  | Medium     | Unmarked     |
-|                      | Remove Duplicates from Sorted List II             | Medium     | Unmarked     |
-|                      | Rotate List                                       | Medium     | Unmarked     |
-|                      | Partition List                                    | Medium     | Unmarked     |
-|                      | LRU Cache                                         | Medium     | Unmarked     |
-| Binary Tree General | Maximum Depth of Binary Tree                       | Easy       | Unmarked     |
-|                      | Same Tree                                         | Easy       | Unmarked     |
-|                      | Invert Binary Tree                                | Easy       | Unmarked     |
-|                      | Symmetric Tree                                    | Easy       | Unmarked     |
-|                      | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Unmarked     |
-|                      | Construct Binary Tree from Inorder and Postorder Traversal | Medium | Unmarked     |
-|                      | Populating Next Right Pointers in Each Node II    | Medium     | Unmarked     |
-|                      | Flatten Binary Tree to Linked List                | Medium     | Unmarked     |
-|                      | Path Sum                                          | Easy       | Unmarked     |
-|                      | Sum Root to Leaf Numbers                          | Medium     | Unmarked     |
-|                      | Binary Tree Maximum Path Sum                      | Hard       | Unmarked     |
-|                      | Binary Search Tree Iterator                       | Medium     | Unmarked     |
-|                      | Count Complete Tree Nodes                         | Medium     | Unmarked     |
-|                      | Lowest Common Ancestor of a Binary Tree           | Medium     | Unmarked     |
-| Binary Tree BFS     | Binary Tree Right Side View                       | Medium     | Unmarked     |
-|                      | Average of Levels in Binary Tree                  | Easy       | Unmarked     |
-|                      | Binary Tree Level Order Traversal                 | Medium     | Unmarked     |
-|                      | Binary Tree Zigzag Level Order Traversal          | Medium     | Unmarked     |
-| Binary Search Tree  | Minimum Absolute Difference in BST                 | Easy       | Unmarked     |
-|                      | Kth Smallest Element in a BST                     | Medium     | Unmarked     |
-|                      | Validate Binary Search Tree                       | Medium     |
+| Category            | Problem                                                    | Difficulty | Unmarked Box |
+| ------------------- | ---------------------------------------------------------- | ---------- | ------------ |
+| Array / String      | Merge Sorted Array                                         | Easy       | Marked       |
+|                     | Remove Element                                             | Easy       | Marked       |
+|                     | Remove Duplicates from Sorted Array                        | Easy       | Marked       |
+|                     | Remove Duplicates from Sorted Array II                     | Medium     | Marked       |
+|                     | Majority Element                                           | Easy       | Marked       |
+|                     | Rotate Array                                               | Medium     | Marked       |
+|                     | Best Time to Buy and Sell Stock                            | Easy       | Marked       |
+|                     | **Best Time to Buy and Sell Stock II**                     | Medium     | Marked       |
+|                     | **Jump Game**                                              | Medium     | Marked       |
+|                     | Jump Game II                                               | Medium     | Marked       |
+|                     | H-Index                                                    | Medium     | Unmarked     |
+|                     | Insert Delete GetRandom O(1)                               | Medium     | Marked       |
+|                     | **Product of Array Except Self**                           | Medium     | Marked       |
+|                     | Gas Station                                                | Medium     | Unmarked     |
+|                     | Candy                                                      | Hard       | Unmarked     |
+|                     | Trapping Rain Water                                        | Hard       | Unmarked     |
+|                     | Roman to Integer                                           | Easy       | Unmarked     |
+|                     | Integer to Roman                                           | Medium     | Unmarked     |
+|                     | Length of Last Word                                        | Easy       | Marked       |
+|                     | Longest Common Prefix                                      | Easy       | Marked       |
+|                     | Reverse Words in a String                                  | Medium     | Marked       |
+|                     | Zigzag Conversion                                          | Medium     | Unmarked     |
+|                     | Find the Index of the First Occurrence in a String         | Easy       | Marked       |
+|                     | Text Justification                                         | Hard       | Unmarked     |
+| Two Pointers        | Valid Palindrome                                           | Easy       | Marked       |
+|                     | Is Subsequence                                             | Easy       | Marked       |
+|                     | **Two Sum II - Input Array Is Sorted**                     | Medium     | Marked       |
+|                     | Container With Most Water                                  | Medium     | Marked       |
+|                     | **3Sum**                                                   | Medium     | Marked       |
+| Sliding Window      | **Minimum Size Subarray Sum**                              | Medium     | Marked       |
+|                     | **Longest Substring Without Repeating Characters**         | Medium     | Marked       |
+|                     | Substring with Concatenation of All Words                  | Hard       | Unmarked     |
+|                     | Minimum Window Substring                                   | Hard       | Unmarked     |
+| Matrix              | Valid Sudoku                                               | Medium     | Unmarked     |
+|                     | Spiral Matrix                                              | Medium     | Unmarked     |
+|                     | Rotate Image                                               | Medium     | Marked       |
+|                     | Set Matrix Zeroes                                          | Medium     | Marked       |
+|                     | Game of Life                                               | Medium     | Unmarked     |
+| Hashmap             | Ransom Note                                                | Easy       | Marked       |
+|                     | **Isomorphic Strings**                                     | Easy       | Marked       |
+|                     | Word Pattern                                               | Easy       | Marked       |
+|                     | Valid Anagram                                              | Easy       | Marked       |
+|                     | Group Anagrams                                             | Medium     | Marked       |
+|                     | Two Sum                                                    | Easy       | Marked       |
+|                     | Happy Number                                               | Easy       | Unmarked     |
+|                     | Contains Duplicate II                                      | Easy       | Marked       |
+|                     | Longest Consecutive Sequence                               | Medium     | Marked       |
+| Intervals           | Summary Ranges                                             | Easy       | Marked       |
+|                     | **Merge Intervals**                                        | Medium     | Marked       |
+|                     | Insert Interval                                            | Medium     | Unmarked     |
+|                     | Minimum Number of Arrows to Burst Balloons                 | Medium     | Unmarked     |
+| Stack               | Valid Parentheses                                          | Easy       | Unmarked     |
+|                     | Simplify Path                                              | Medium     | Unmarked     |
+|                     | Min Stack                                                  | Medium     | Unmarked     |
+|                     | Evaluate Reverse Polish Notation                           | Medium     | Unmarked     |
+|                     | Basic Calculator                                           | Hard       | Unmarked     |
+| Linked List         | Linked List Cycle                                          | Easy       | Marked       |
+|                     | Add Two Numbers                                            | Medium     | Marked       |
+|                     | Merge Two Sorted Lists                                     | Easy       | Marked       |
+|                     | Copy List with Random Pointer                              | Medium     | Unmarked     |
+|                     | Reverse Linked List II                                     | Medium     | Unmarked     |
+|                     | Reverse Nodes in k-Group                                   | Hard       | Unmarked     |
+|                     | Remove Nth Node From End of List                           | Medium     | Unmarked     |
+|                     | Remove Duplicates from Sorted List II                      | Medium     | Unmarked     |
+|                     | Rotate List                                                | Medium     | Unmarked     |
+|                     | Partition List                                             | Medium     | Unmarked     |
+|                     | LRU Cache                                                  | Medium     | Unmarked     |
+| Binary Tree General | Maximum Depth of Binary Tree                               | Easy       | Unmarked     |
+|                     | Same Tree                                                  | Easy       | Unmarked     |
+|                     | Invert Binary Tree                                         | Easy       | Unmarked     |
+|                     | Symmetric Tree                                             | Easy       | Unmarked     |
+|                     | Construct Binary Tree from Preorder and Inorder Traversal  | Medium     | Unmarked     |
+|                     | Construct Binary Tree from Inorder and Postorder Traversal | Medium     | Unmarked     |
+|                     | Populating Next Right Pointers in Each Node II             | Medium     | Unmarked     |
+|                     | Flatten Binary Tree to Linked List                         | Medium     | Unmarked     |
+|                     | Path Sum                                                   | Easy       | Unmarked     |
+|                     | Sum Root to Leaf Numbers                                   | Medium     | Unmarked     |
+|                     | Binary Tree Maximum Path Sum                               | Hard       | Unmarked     |
+|                     | Binary Search Tree Iterator                                | Medium     | Unmarked     |
+|                     | Count Complete Tree Nodes                                  | Medium     | Unmarked     |
+|                     | Lowest Common Ancestor of a Binary Tree                    | Medium     | Unmarked     |
+| Binary Tree BFS     | Binary Tree Right Side View                                | Medium     | Unmarked     |
+|                     | Average of Levels in Binary Tree                           | Easy       | Unmarked     |
+|                     | Binary Tree Level Order Traversal                          | Medium     | Unmarked     |
+|                     | Binary Tree Zigzag Level Order Traversal                   | Medium     | Unmarked     |
+| Binary Search Tree  | Minimum Absolute Difference in BST                         | Easy       | Unmarked     |
+|                     | Kth Smallest Element in a BST                              | Medium     | Unmarked     |
+|                     | Validate Binary Search Tree                                | Medium     |
 
  Unmarked     |
 | Graph General       | Number of Islands                                 | Medium     | Unmarked     |

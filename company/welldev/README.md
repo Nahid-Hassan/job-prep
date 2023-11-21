@@ -37,11 +37,10 @@
 
 **One possible answer for my position**
 
-```text
+
 Recently I am preparing myself for Job interview, I am focusing on Data structure and algorithm, OOP, Database and other things.
 
 But I have familiar with Django, Tensorflow, Keras, Numpy, Pandas, Data Visualizations, Bootstrap5.
-```
 
 10. What is your salary expectations? (35,000 - 45,000)
 

@@ -114,6 +114,7 @@ Output: 16 24
 - Join related Question (Theory + Query)
 - Transaction & ACId, 
 - SQL vs NoSQL
+- **ORM**
 
 > FOR SQL-Q Practices (Hackerrank, Leetcode)
 > https://en.wikibooks.org/wiki/SQL_Exercises

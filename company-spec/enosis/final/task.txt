@@ -1,0 +1,26 @@
+1. Searching - Linear/Binary - Array(1D,2D), LinkedList
+2. Rotate - Array(1D,2D), LinkedList
+3. Reverse - Array(1D), LinkedList
+4. Insert, Remove in LinkedList
+5. Stack, Queue - Monotonic Stack, Solve Stack Problems from LinkedList
+
+Tree
+====
+1. Binary Tree, Create, Insert, BST, isBST, traverse
+2. Array/LinkedList -> BST/Binary Tree
+
+Graph
+=====
+1. 1D/2D DFS, BFS, Coloring Problems
+
+Sorting
+=======
+Merge Sort, Sort with CMP 
+
+Others
+======
+1. Sliding Windows
+2. Two Pointers
+3. Map, Text Processing(wrap, justify, decoding...)
+
+

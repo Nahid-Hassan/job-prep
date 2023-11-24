@@ -1,0 +1,55 @@
+I have attached some code.
+Check it out.
+
+Must Do Problem:
+1. Aggressive Cow - Done
+2. Bi-coloring - (Trying...)
+3. Bomb Spaceship
+4. Burst Ballons
+5. Camel
+6. Crow Pots
+7. Endoscope
+8. Fisherman
+9. Flip Column
+10. Gasoline Diesel
+11. Juwel Maze
+12. Kim Refregerator
+13. Men Restroom
+14. Mr. Lee(TSM)
+15. Oil Mine
+16. Physical Energy
+17. Piller Pipe
+18. Research Team
+19. Rock Climb
+20. Sum of Node k-th Level
+21. Wormwhole
+Less Important.....
+22. Cycle Detection Directed Graph
+23. Frog Jump
+24. Laughing Bomb
+25. Bipartite Graph
+26. Horse Attack L
+
+Please follow these link for practice:
+https://github.com/MohMaya/TargetSMSNG 
+https://gist.github.com/gunpreet34
+https://pastebin.com/u/ann8497
+https://docs.google.com/document/d/1io1ZIc3BBm037JuAJSZt_0mEJK8H76HDBVTtjzG_uw0/edit?fbclid=IwAR2C896Y5F0X-ezegGlj0MYMd7uNBU81nBheOEzbXeN_7pgnEKOwPfEoTp0#heading=h.q3zrtxf2iily
+https://github.com/twowaits/SDE-Interview-Questions/blob/master/Samsung/README.md
+https://github.com/s-kachroo/SamsungPractice
+https://www.geeksforgeeks.org/samsung-interview-preparation/
+
+
+Must Problem:
+
+1. Travelling SalesMan
+2. Flip Columns
+3. Endoscope
+4. Kim and Refrigerators
+5. Warmholes
+6. Burst Balloons Optimally
+7. Fisherman
+8. Aeroplane Bombing
+9. Rock Climbing
+10. Sum of nodes at kth level
+11. Detect cycle in directed graph

@@ -1,5 +1,6 @@
 # SE Job Preparation
 
+> Awesome resource: [Interview Questions Bangladesh](https://github.com/TamimEhsan/interview-questions-bangladesh)
 
 > My Leetcode Account - [Md. Nahid Hassan](https://leetcode.com/nahidmdh18/) - Solving Idea: [Leetcode Problem Solving Ideas - README](https://github.com/Nahid-Hassan/job-prep/blob/main/LEETCODE_SOL_IDEA.md)
 
